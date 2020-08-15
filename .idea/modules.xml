@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/investments_wck_nsk.iml" filepath="$PROJECT_DIR$/.idea/investments_wck_nsk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WRDS-data-model-master.iml" filepath="$PROJECT_DIR$/.idea/WRDS-data-model-master.iml" />
     </modules>
   </component>
 </project>

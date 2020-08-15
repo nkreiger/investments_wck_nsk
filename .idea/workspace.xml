@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="343f0783-f9d0-4527-b1dd-b76b22433aae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/investments_wck_nsk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="343f0783-f9d0-4527-b1dd-b76b22433aae" name="Default Changelist" comment="Testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VfJAFyQPA8VVZ3oJg2pcrxnWqW" />
@@ -66,10 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1577638070235</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1597458481974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597458481974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2631" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597456773794">
@@ -80,14 +86,22 @@
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597456795714" />
+    <state x="1688" y="-858" key="RollbackChangesDialog" timestamp="1597458363363">
+      <screen x="989" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1688" y="-858" key="RollbackChangesDialog/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597458363363" />
     <state x="2381" y="165" key="SettingsEditor" timestamp="1597457456425">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597457456425" />
-    <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597458334805">
+    <state x="1541" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1597459056521">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597458334805" />
+    <state x="1541" y="-827" key="Vcs.Push.Dialog.v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597459056521" />
+    <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597458387263">
+      <screen x="989" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597458387263" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

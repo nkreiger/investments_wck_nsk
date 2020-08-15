@@ -1,0 +1,29 @@
+<!doctype html>
+<script type="text/javascript">var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};</script>
+<html>
+<head>
+
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/main.css')}}">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script src="{{url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/underscore-min.js')}}"></script>
+    {% block head %}
+    {% endblock %}
+    <title>{% block title %}{% endblock %} - WRDS application</title>
+</head>
+  <body>
+    <div id="main-container">
+        <div class="form-row">
+            <h1>WRDS Data Model</h1>
+        </div>
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <div id="footer">
+        {% block footer %}
+            <a>&copy; Copyright 2018 by <a href="http://domain.invalid/">Josh &amp; Chase</a>.
+        {% endblock %}
+    </div>
+  </body>
+</html>

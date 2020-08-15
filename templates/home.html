@@ -1,0 +1,64 @@
+{% extends "layout.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+    <div class="form-row">
+        <div class="home-5x">
+            <p>
+                Please select the library of your choice below,
+                then choose which associated table you would like to see.
+            </p>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="home-5x">
+            <p>
+                Or, use the query feature to perform custom searches.
+            </p>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="home-3x">
+            <div class="dropdown">
+                <label for="library">Library</label>
+                <select id="library">
+                    <option></option>
+                </select>
+            </div>
+        </div>
+        <div class="home-3x">
+            <div class="dropdown">
+                <label for="table">Table</label>
+                <select id="table">
+                    <option></option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div id="query-feature">
+            <div class="home-4x">
+                <label for="query">Enter query here</label>
+                <input type="text" id="query-input" placeholder="SELECT * FROM djones.djdaily LIMIT 10;" />
+            </div>
+            <div class="home-1x">
+                <div id="submit" class="button">submit</div>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="home-3x">
+            <p id="dataLoading" class="text-center text-muted hidden">
+                Loading ...
+            </p>
+        </div>
+
+        <div class="table-responsive hidden" id="dataTable">
+            <table class="table-responsive table-condensed table-hover">
+                <tbody id="dataTableBody"></tbody>
+            </table>
+        </div>
+    </div>
+		
+	<script src="{{url_for('static', filename='js/base.js')}}"></script>
+	<script src="{{url_for('static', filename='js/home.js')}}"></script>
+{% endblock %}
