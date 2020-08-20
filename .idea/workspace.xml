@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="343f0783-f9d0-4527-b1dd-b76b22433aae" name="Default Changelist" comment="Testing">
+      <change afterPath="$PROJECT_DIR$/Model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WRDS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Model" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
@@ -112,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -120,6 +122,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Committing" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597890792829">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1040@0.0.3840.1040" timestamp="1597890792829" />
     <state x="2631" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597456773794">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
@@ -128,12 +134,12 @@
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
     <state x="989" y="-994" key="DiffContextDialog/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597461096276" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1597888227542">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1597891226472">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597456795714" />
     <state x="2319" y="-805" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597459260160" />
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040@0.0.3840.1040" timestamp="1597888227542" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040@0.0.3840.1040" timestamp="1597891226472" />
     <state x="1688" y="-858" key="RollbackChangesDialog" timestamp="1597458363363">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
@@ -143,10 +149,11 @@
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597457456425" />
     <state x="1911" y="-915" key="SettingsEditor/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597459216602" />
-    <state x="1541" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1597461216823">
-      <screen x="989" y="-1080" width="1920" height="1040" />
+    <state x="1104" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597891197024">
+      <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="1541" y="-827" key="Vcs.Push.Dialog.v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597461216823" />
+    <state x="1104" y="253" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1597891197024" />
     <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597458387263">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
