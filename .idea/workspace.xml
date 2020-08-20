@@ -11,14 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="343f0783-f9d0-4527-b1dd-b76b22433aae" name="Default Changelist" comment="Testing">
-      <change afterPath="$PROJECT_DIR$/Model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -134,12 +139,12 @@
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
     <state x="989" y="-994" key="DiffContextDialog/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597461096276" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1597891226472">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1597891832365">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597456795714" />
     <state x="2319" y="-805" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597459260160" />
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040@0.0.3840.1040" timestamp="1597891226472" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040@0.0.3840.1040" timestamp="1597891832365" />
     <state x="1688" y="-858" key="RollbackChangesDialog" timestamp="1597458363363">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
