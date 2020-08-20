@@ -68,3 +68,4 @@ D2 = (RoC_1H).add(RoC_1Y).add(RoC_2Y)
 Score['2D'] = D2.mean(axis=1)
 Score.plot(legend=True)
 plt.show()
+#peni
