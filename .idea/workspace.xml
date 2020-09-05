@@ -11,7 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="343f0783-f9d0-4527-b1dd-b76b22433aae" name="Default Changelist" comment="Testing">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estimates Data Master_SPX.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB_Accessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +56,99 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Model" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chase Kleinhenz\PycharmProjects\investments_wck_nsk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Model2">
+    <configuration name="Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WRDS-data-model-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Model2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WRDS-data-model-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Model3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WRDS-data-model-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MongoDB_Accessor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WRDS-data-model-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB_Accessor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="investments_wck_nsk" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +170,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Model2" />
+        <item itemvalue="Python.MongoDB_Accessor" />
+        <item itemvalue="Python.Model3" />
+        <item itemvalue="Python.Model" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -127,6 +234,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Committing" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-345" y="-883" key="#Inspections" timestamp="1598731040032">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state x="-345" y="-883" key="#Inspections/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598731040032" />
     <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597890792829">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
@@ -135,44 +246,83 @@
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2631" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597456773794" />
+    <state x="-291" y="-825" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598646633420">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state x="-291" y="-825" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598646633420" />
     <state x="989" y="-994" key="DiffContextDialog" timestamp="1597461096276">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
     <state x="989" y="-994" key="DiffContextDialog/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597461096276" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1597891832365">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1598109490092">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597456795714" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1598109490092" />
     <state x="2319" y="-805" key="FileChooserDialogImpl/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597459260160" />
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.3840.1040@0.0.3840.1040" timestamp="1597891832365" />
+    <state width="1899" height="492" key="GridCell.Tab.0.bottom" timestamp="1598732485942">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="492" key="GridCell.Tab.0.bottom/0.0.3840.1040/-931.-1080.1920.1040@-931.-1080.1920.1040" timestamp="1598413767069" />
+    <state width="1899" height="492" key="GridCell.Tab.0.bottom/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598732485942" />
+    <state width="1898" height="492" key="GridCell.Tab.0.bottom/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1598113547139" />
+    <state width="1899" height="492" key="GridCell.Tab.0.bottom/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1598674015931" />
+    <state width="1899" height="492" key="GridCell.Tab.0.center" timestamp="1598732485942">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="492" key="GridCell.Tab.0.center/0.0.3840.1040/-931.-1080.1920.1040@-931.-1080.1920.1040" timestamp="1598413767069" />
+    <state width="1899" height="492" key="GridCell.Tab.0.center/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598732485942" />
+    <state width="1898" height="492" key="GridCell.Tab.0.center/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1598113547139" />
+    <state width="1899" height="492" key="GridCell.Tab.0.center/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1598674015931" />
+    <state width="1899" height="492" key="GridCell.Tab.0.left" timestamp="1598732485942">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="492" key="GridCell.Tab.0.left/0.0.3840.1040/-931.-1080.1920.1040@-931.-1080.1920.1040" timestamp="1598413767069" />
+    <state width="1899" height="492" key="GridCell.Tab.0.left/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598732485942" />
+    <state width="1898" height="492" key="GridCell.Tab.0.left/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1598113547139" />
+    <state width="1899" height="492" key="GridCell.Tab.0.left/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1598674015931" />
+    <state width="1899" height="492" key="GridCell.Tab.0.right" timestamp="1598732485942">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="492" key="GridCell.Tab.0.right/0.0.3840.1040/-931.-1080.1920.1040@-931.-1080.1920.1040" timestamp="1598413767069" />
+    <state width="1899" height="492" key="GridCell.Tab.0.right/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598732485942" />
+    <state width="1898" height="492" key="GridCell.Tab.0.right/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1598113547139" />
+    <state width="1899" height="492" key="GridCell.Tab.0.right/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1598674015931" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1598658496200">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598658496200" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1598658496200">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598658496200" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1598658496200">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598658496200" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1598658496200">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598658496200" />
     <state x="1688" y="-858" key="RollbackChangesDialog" timestamp="1597458363363">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
     <state x="1688" y="-858" key="RollbackChangesDialog/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597458363363" />
-    <state x="1911" y="-915" key="SettingsEditor" timestamp="1597459216602">
-      <screen x="989" y="-1080" width="1920" height="1040" />
+    <state x="-9" y="-916" key="SettingsEditor" timestamp="1598657861594">
+      <screen x="-931" y="-1081" width="1920" height="1040" />
     </state>
+    <state x="-9" y="-916" key="SettingsEditor/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@-931.-1081.1920.1040" timestamp="1598657861594" />
     <state x="2381" y="165" key="SettingsEditor/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@0.0.3840.1040" timestamp="1597457456425" />
     <state x="1911" y="-915" key="SettingsEditor/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597459216602" />
-    <state x="1104" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597891197024">
-      <screen x="0" y="0" width="3840" height="1040" />
-    </state>
-    <state x="1541" y="-827" key="Vcs.Push.Dialog.v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597461216823" />
-    <state x="1104" y="253" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1597891197024" />
-    <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597458387263">
+    <state x="1541" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1598662661093">
       <screen x="989" y="-1080" width="1920" height="1040" />
     </state>
+    <state x="1541" y="-827" key="Vcs.Push.Dialog.v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1598662661093" />
+    <state x="1104" y="253" key="Vcs.Push.Dialog.v2/0.0.3840.1040@0.0.3840.1040" timestamp="1597891197024" />
+    <state x="1554" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597892233546">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
     <state x="1766" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1040/2909.-1082.1920.1040/989.-1080.1920.1040/-931.-1081.1920.1040@989.-1080.1920.1040" timestamp="1597458387263" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="1554" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1040@0.0.3840.1040" timestamp="1597892233545" />
   </component>
 </project>
